@@ -7,6 +7,11 @@
 MrStark7797/MrStark7797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<style>
+#header {
+  border-radius: 25px;
+}
+</style>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
 </div>
