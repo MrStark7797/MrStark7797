@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @MrStark7797
-- 👀 I’m interested in cybersecurity and back-end development
-- 🌱 I’m currently learning a level of computer science
-- 💞️ I’m looking to collaborate with your mum
-- 📫 How to reach me: you won't i will reach you
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/william-starkie-45913224b/" target="_blank">
@@ -19,4 +14,64 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=MrStark7797&style=flat-square&color=blue" alt="" align="center"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrStark7797&style=flat-square&color=blue" alt="" align="center"/>
+  <br>
+  <br>
+  <h3><strong> 🎱Wise Words Of Wisdom:</strong> <em>Don't Build A Top Of The Line PC For 3 Grand As A Student</em></h3>
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo3Ymk1bng3bTBkMjA2bnNkNzNkeXk2ZmE3dTJzbGRraXhrdmUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻 About Me :
+
+- 👋 Hi, I’m Will
+- 👀 I’m interested in cybersecurity and Chess engine development
+- 🌱 I’m currently learning A level of computer science, and C++
+- ♟️ Peak Chess Elo 1468
+- 🏫 Hertford College and ICL Applicant <i><sub>(Comp Sci G400)</sub></i>
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+</div>
+
+
+---
+
+### :fire: The Stats :
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MrStark7797&show_icons=true&theme=merko&hide=prs,contribs"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark7797&show_icons=true&theme=merko&layout=donut">
+
+</div>
+
+---
+
+### :pushpin: Top Repositories
+<div align="center">
+  <a href="https://github.com/MrStark7797/CppChessEngine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrStark7797&repo=CppChessEngine&theme=merko" />
+  </a>
+  <a href="https://github.com/MrStark7797/Chess-Engine-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrStark7797&repo=Chess-Engine-Web&theme=merko" />
+  </a>
+
+  
+</div>
