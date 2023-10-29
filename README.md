@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/william-starkie-45913224b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="discordapp.com/users/270617943266557953" target="_blank">
+  <a href="https://discordapp.com/users/270617943266557953" target="_blank">
     <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/Mrstark7797" target="_blank">
