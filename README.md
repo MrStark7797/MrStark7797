@@ -1,8 +1,10 @@
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrStark7797&style=flat-square&color=blue" alt="" align="center"/>
 </div>
+<div id="header" align="center">
+  <img src="Screenshot 2023-10-29 171855.png" width="200"/>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/william-starkie-45913224b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,13 +20,11 @@
   </a>
   <a href="https://www.chess.com/member/willstarkie" target="_blank">
     <img src="https://img.shields.io/badge/Chess-black?style=for-the-badge&logo=lichess&logoColor=white" alt="Twitter Badge"/>
-  </a
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrStark7797&style=flat-square&color=blue" alt="" align="center"/>
-  <br>
-  <br>
+
+<div>
   <h3><strong> 🎱Wise Words Of Wisdom:</strong> <em>Don't Build A Top Of The Line PC For 3 Grand As A Student</em></h3>
   <br>
 </div>
