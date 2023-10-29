@@ -12,7 +12,13 @@
   </a>
   <a href="https://twitter.com/Mrstark7797" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a><br>
+  <a href="https://steamcommunity.com/id/TheRealMrStark123/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://www.chess.com/member/willstarkie" target="_blank">
+    <img src="https://img.shields.io/badge/Chess-black?style=for-the-badge&logo=lichess&logoColor=white" alt="Twitter Badge"/>
+  </a
 </div>
 
 <div align="center">
