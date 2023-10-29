@@ -36,6 +36,7 @@
 - 🌱 I’m currently learning A level of computer science, and C++
 - ♟️ Peak Chess Elo 1468
 - 🏫 Hertford College and ICL Applicant <i><sub>(Comp Sci G400)</sub></i>
+- ✔️ Southampton Uni Offer Holder <i><sub>(Comp Sci G400)</sub></i>
 
 
 ---
@@ -72,6 +73,32 @@
   <a href="https://github.com/MrStark7797/Chess-Engine-Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrStark7797&repo=Chess-Engine-Web&theme=merko" />
   </a>
-
-  
 </div>
+
+---
+
+### 🖥️ PC Specs
+
+
+  <table align="center">
+    <tr>
+      <th>CPU</th>
+      <td>AMD Ryzen 9 7950X3D</td>
+    </tr>
+    <tr>
+      <th>GPU</th>
+      <td>AMD RX 7900-XTX</td>
+    </tr>
+    <tr>
+      <th>SSD</th>
+      <td>Samsung 970 Evo Plus NVMe PCIe M.2 2TB</td>
+    </tr>
+    <tr>
+      <th>RAM</th>
+      <td>Corsair Vengeance LPX 2x16GB</td>
+    </tr>
+    <tr>
+      <th>MBD</th>
+      <td>Gigabyte GA-X670 AORUS ELITE</td>
+    </tr>
+  </table>
