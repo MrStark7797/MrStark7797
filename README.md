@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordapp.com/users/270617943266557953" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/Mrstark7797" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.chess.com/member/willstarkie" target="_blank">
-    <img src="https://img.shields.io/badge/Chess-black?style=for-the-badge&logo=lichess&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Chess-grey?style=for-the-badge&logo=lichess&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
