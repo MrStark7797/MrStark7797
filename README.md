@@ -62,20 +62,19 @@
 
 ### :fire: The Stats :
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrStark7797&show_icons=true&theme=merko&hide=prs,contribs&cache_seconds=3600 "><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark7797&show_icons=true&theme=merko&layout=donut&cache_seconds=3600">
+<img src="https://github-readme-stats.vercel.app/api?username=MrStark7797&show_icons=true&theme=merko&hide=prs,contribs"><br>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark7797&show_icons=true&theme=merko&layout=donut&cache_seconds=3600">
 
 </div>
-
 ---
 
 ### :pushpin: Top Repositories
 <div align="center">
   <a href="https://github.com/MrStark7797/CppChessEngine">
-    <img src="https://gitreadme-d3gjr46yz-mrstark7797s-projects.vercel.app/api/pin/?username=MrStark7797&repo=CppChessEngine&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrStark7797&repo=CppChessEngine&theme=merko" />
   </a>
   <a href="https://github.com/MrStark7797/Chess-Engine-Web">
-    <img src="https://gitreadme-d3gjr46yz-mrstark7797s-projects.vercel.app/api/pin/?username=MrStark7797&repo=Chess-Engine-Web&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrStark7797&repo=Chess-Engine-Web&theme=merko" />
   </a>
 </div>
 
