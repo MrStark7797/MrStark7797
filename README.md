@@ -39,8 +39,7 @@
 - 👀 I’m interested in cybersecurity and Chess engine development
 - 🌱 I’m currently learning A level of computer science, and C++
 - ♟️ Peak Chess Elo 1468
-- 🏫 Hertford College and ICL Applicant <i><sub>(Comp Sci G400)</sub></i>
-- ✔️ Southampton Uni Offer Holder <i><sub>(Comp Sci G400)</sub></i>
+- 🏫 Southampton Uni Offer Holder <i><sub>(Comp Sci G400)</sub></i>
 
 
 ---
