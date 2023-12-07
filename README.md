@@ -59,7 +59,7 @@
 
 ---
 
-### :fire: The Stats :
+### 🔥: The Stats :
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrStark7797&show_icons=true&theme=merko&hide=prs,contribs"><br>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark7797&show_icons=true&theme=merko&layout=donut&cache_seconds=3600">
