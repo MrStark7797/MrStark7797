@@ -40,7 +40,7 @@
 - 🌱 I’m currently learning A level of computer science, and C++
 - ♟️ Peak Chess Elo 1468
 - 🏫 Southampton Uni Offer Holder <i><sub>(Comp Sci G400)</sub></i>
-
+- 📑 59/100 MAT - Comp Sci (Top 500)
 
 ---
 
