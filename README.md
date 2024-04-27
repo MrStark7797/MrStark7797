@@ -41,7 +41,9 @@
 - ♟️ Peak Chess Elo 1468
 - 🏫 Southampton Uni Offer Holder <i><sub>(Comp Sci G400)</sub></i>
 - 📑 59/100 MAT - Comp Sci (Top 500)
+- 🥉 76th Percentile For UCL STAT Test
 - 💻 Built Slice Chess engine ~ 1500 elo
+- 💯 70/70 Comp Sci NEA ^
 
 ---
 
