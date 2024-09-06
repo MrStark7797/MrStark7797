@@ -43,7 +43,14 @@
 - 📑 59/100 MAT - Comp Sci (Top 500)
 - 🥉 76th Percentile For UCL STAT Test
 - 💻 Built Slice Chess engine ~ 1500 elo
-- 💯 70/70 Comp Sci NEA ^
+- 💯 70/70 Comp Sci NEA
+
+---
+
+### 🏫 Qualifications :
+
+- A* in Further Maths, Maths & CS,
+- A in Physics
 
 ---
 
