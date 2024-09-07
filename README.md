@@ -37,13 +37,9 @@
 
 - 👋 Hi, I’m Will
 - 👀 I’m interested in cybersecurity and Chess engine development
-- 🌱 I’m currently learning A level of computer science, and C++
 - ♟️ Peak Chess Elo 1468
-- 🏫 Southampton Uni Offer Holder <i><sub>(Comp Sci G400)</sub></i>
-- 📑 59/100 MAT - Comp Sci (Top 500)
-- 🥉 76th Percentile For UCL STAT Test
+- 🏫 Southampton Uni Student <i><sub>(Comp Sci)</sub></i>
 - 💻 Built Slice Chess engine ~ 1500 elo
-- 💯 70/70 Comp Sci NEA
 
 ---
 
@@ -51,7 +47,9 @@
 
 - A* in Further Maths, Maths & CS,
 - A in Physics
-
+- 📑 59/100 MAT - Comp Sci (Top 500)
+- 💯 70/70 Comp Sci NEA
+- 🥉 76th Percentile For UCL STAT Test
 ---
 
 ### 🛠️ Languages and Tools :
@@ -75,6 +73,7 @@
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark7797&show_icons=true&theme=merko&layout=donut&cache_seconds=3600">
 
 </div>
+
 ---
 
 ### :pushpin: Top Repositories
