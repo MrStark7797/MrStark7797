@@ -33,7 +33,7 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
 
 - 👋 Hi, I’m Will
 - 👀 I’m interested in cybersecurity and Chess engine development
@@ -43,14 +43,14 @@
 
 ---
 
-### 🏫 Qualifications :
+### 🏫 Qualifications:
 
 - 🥇 1st, Data Management - UoS COMP1314
 - 📑 59/100 MAT - Comp Sci (Top 500)
 - 💯 70/70 Comp Sci NEA
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
@@ -67,7 +67,7 @@
  
 ---
 
-### 🔥: The Stats :
+### 🔥 The Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrStark7797&show_icons=true&theme=merko&hide=prs,contribs"><br>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark7797&show_icons=true&theme=merko&layout=donut&cache_seconds=3600">
@@ -88,7 +88,7 @@
 
 ---
 
-### 🖥️ PC Specs
+### 🖥️ PC Specs:
 
 
   <table align="center">
