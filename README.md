@@ -39,7 +39,7 @@
 - 👀 I’m interested in cybersecurity and Chess engine development
 - ♟️ Peak Chess Elo 1468
 - 🏫 Southampton Uni Student <i><sub>(Comp Sci)</sub></i>
-- 💻 Built Slice Chess engine ~ 1500 elo
+- 🤖 Built [Slice Chess engine](https://lichess.org/@/Slice-Bot) ~ 1500 elo Blitz, 1800 elo Bullet
 
 ---
 
