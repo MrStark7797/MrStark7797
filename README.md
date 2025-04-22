@@ -45,11 +45,9 @@
 
 ### 🏫 Qualifications :
 
-- A* in Further Maths, Maths & CS,
-- A in Physics
+- 🥇 1st, Data Management - UoS COMP1314
 - 📑 59/100 MAT - Comp Sci (Top 500)
 - 💯 70/70 Comp Sci NEA
-- 🥉 76th Percentile For UCL STAT Test
 ---
 
 ### 🛠️ Languages and Tools :
